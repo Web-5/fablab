@@ -1,4 +1,4 @@
 fablab
 ======
 
-The Web-5 FabLab Website
+The Web-5 FabLab Activities
